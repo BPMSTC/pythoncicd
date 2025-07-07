@@ -108,4 +108,8 @@ make deploy
 
 ## Running in Azure App Service (Windows)
 
-Just don't, it's awful 
+Just don't, it's awful
+
+## Modifications
+
+7/7/25 - initial commit
